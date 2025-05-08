@@ -1,0 +1,11 @@
+CharacterQuilt - Task Time log
+Michael Karas, May 8 2025
+Michael.karas96@gmail.com
+
+Total Task Time - 65 Minutes
+
+Initial Setup - 5 Minutes
+Worksheet Generation - 20 Minutes
+LLM API Implementation - 10 Minutes
+UI Design - 20 Minutes
+Polish & Refactoring - 10 Minutes
